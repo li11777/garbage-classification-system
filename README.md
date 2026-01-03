@@ -44,8 +44,8 @@ pip install -r requirements.txt
 | Model Name | mAP / Acc | Checkpoint Size | Download |
 | --- | --- | --- | --- |
 | **ResNet50** | 78.5% | 90 MB | [点击下载 (.h5)](https://pan.quark.cn/s/5e2ff09a817e) |
-| **MobileNetV2** | 82.1% | 9 MB | mobilenetv2.h5 |
-| **EfficientNetb0** | 66.6% | 20M |efficientnetb0.h5 |
+| **MobileNetV2** | 99.1% | 9 MB | mobilenetv2.h5 |
+| **EfficientNetb0** | 20.6% | 20M |efficientnetb0.h5 |
 
 ### 模型放置
 
@@ -143,5 +143,6 @@ python main.py
 └── README.md           # 项目说明文档
 
 ```
+
 
 
