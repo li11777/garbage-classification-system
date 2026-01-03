@@ -57,6 +57,7 @@ pip install -r requirements.txt
 
 ```
 
+---
 ### 3.训练
 
 ### 3.1 数据准备 (Data Preparation)
@@ -123,7 +124,7 @@ python main.py
 
 ---
 
-## 4. Project Structure (项目结构)
+## 5. Project Structure (项目结构)
 
 关键模块的代码结构如下：
 
@@ -142,4 +143,5 @@ python main.py
 └── README.md           # 项目说明文档
 
 ```
+
 
