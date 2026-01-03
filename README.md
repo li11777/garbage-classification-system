@@ -57,7 +57,20 @@ pip install -r requirements.txt
 
 ```
 
----
+### 模型效果
+
+MobileNetV2
+
+![MobileNetV2](mobilenetv2_loss_acc.png)
+
+RestNet50
+
+![RestNet50](resnet50_loss_acc.png)
+
+EfficientNetb0
+
+![EfficientNetb0](efficientnetb0_loss_acc.png)
+
 ### 3.训练
 
 ### 3.1 数据准备 (Data Preparation)
@@ -143,6 +156,7 @@ python main.py
 └── README.md           # 项目说明文档
 
 ```
+
 
 
 
