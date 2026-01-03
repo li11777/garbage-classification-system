@@ -39,13 +39,13 @@ pip install -r requirements.txt
 
 ### 模型下载
 
-由于 GitHub 文件大小限制，模型权重文件可能存储在云盘或 Git LFS 中。
+由于 GitHub 文件大小限制，部分模型权重文件存储在云盘中。
 
 | Model Name | mAP / Acc | Checkpoint Size | Download |
 | --- | --- | --- | --- |
-| **ResNet50** | 78.5% | 150 MB | [点击下载 (.pth)](https://www.google.com/search?q=https://your-link-here) |
-| **MobileNetV2** | 82.1% | 230 MB | [点击下载 (.pth)](https://www.google.com/search?q=https://your-link-here) |
-| **EfficientNetb0** | 66.6% | 100M | [点击下载](https://www.google.com/search?q=https://your-link-here) |
+| **ResNet50** | 78.5% | 90 MB | [点击下载 (.h5)](https://pan.quark.cn/s/5e2ff09a817e) |
+| **MobileNetV2** | 82.1% | 9 MB | mobilenetv2.h5 |
+| **EfficientNetb0** | 66.6% | 20M |efficientnetb0.h5 |
 
 ### 模型放置
 
@@ -142,3 +142,4 @@ python main.py
 └── README.md           # 项目说明文档
 
 ```
+
